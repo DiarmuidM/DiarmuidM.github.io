@@ -9,5 +9,6 @@ paperurl: 'https://doi.org/10.1177/0899764017728367'
 
 ---
 
-[Download paper here](https://doi.org/10.1177/0899764017728367)
-[Download data here](https://datastorre.stir.ac.uk/handle/11667/94)
+[Access paper](https://doi.org/10.1177/0899764017728367)
+
+[Access data](https://datastorre.stir.ac.uk/handle/11667/94)
