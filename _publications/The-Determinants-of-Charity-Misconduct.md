@@ -11,4 +11,4 @@ paperurl: 'https://doi.org/10.1177/0899764017728367'
 
 [Access paper](https://doi.org/10.1177/0899764017728367)
 
-[Access data](https://datastorre.stir.ac.uk/handle/11667/94)
+[Access data](http://hdl.handle.net/11667/94)
