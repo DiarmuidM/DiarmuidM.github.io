@@ -7,6 +7,8 @@ date: 2018-02-01
 venue: 'Nonprofit and Voluntary Sector Quarterly'
 paperurl: 'https://doi.org/10.1177/0899764017728367'
 
+---
+
 [Access paper](https://doi.org/10.1177/0899764017728367)
 
 [Access data](http://hdl.handle.net/11667/94)
