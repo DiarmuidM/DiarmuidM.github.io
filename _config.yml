@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Diarmuid McDonnell"
 title_separator          : "-"
 name                     : &name "Diarmuid McDonnell"
-description              : &description "personal description"
+description              : &description "Quantitative social scientist with experience in academia, the public and voluntary sectors, and consultancy work."
 url                      : https://DiarmuidM.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/DiarmuidM/DiarmuidM.github.io"
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Diarmui McDonnell"
+  name             : "Diarmuid McDonnell"
   avatar           : "Diarmuid_McDonnell.jpg"
   bio              : "Research Fellow in Social Policy"
   location         : "Glasgow, Scotland"
   employer         : "University of Birmingham"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=TaR1F1QAAAAJ&hl=en&oi=ao"
   email            : "d.mcdonnell.1@bham.ac.uk"
   uri              :
   bitbucket        :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/DiarmuidM"
+  github           : "DiarmuidM"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/DiarmuidMc"
+  twitter          : "DiarmuidMc"
   vine             :
   weibo            :
   xing             :
