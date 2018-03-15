@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Description of my academic background and work"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
