@@ -18,6 +18,6 @@ My research centres on charitable organisations, studying their accountability b
 ### Completed
 Risk and Resilience in Scottish Charities: 
 
-# Research grants
+## Research grants
 *Principal Investigator*: “Mission Accomplished? A Cross-national Examination of Charity Dissolution.” _British Academy_, 2018-2019,
 *£9,879.65*.
