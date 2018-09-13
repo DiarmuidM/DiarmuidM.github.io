@@ -9,39 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* PhD in Sociology & Social Policy, University of Stirling, 2017
-* MSc in Applied Social Research, University of Stirling, 2013
-* BBus in Information Systems, Cork Insititute of Technology, 2010 
+I am a social scientist with experience in academia, the public and voluntary sectors, and consultancy work. My research explores the determinants of nonprofit misconduct, accountability and vulnerability, using linked administrative data derived from charity regulators internationally. I am currently researching post-war organisational change in the UK voluntary sector. I have methodological interests in the use of administrative data for social science research, data science and policy evaluation methods. My recent role involved scoping, organising and delivering knowledge exchange and networking events for businesses and academics interested in learning and applying data science approaches.
 
-Research Grants
-======
-* “Mission Accomplished? A Cross-national Examination of Charity Dissolution.” _British Academy_, 2018-2019, £9,879.65 – Principal Investigator.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Data
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Referee
-  * Nonprofit and Voluntary Sector Quarterly
-* Memberhip of professional bodies
-  * International Society for Third-Sector Research (ISTR)
-  * Voluntary Sector Studies Network (VSSN)
-  * Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA)
+<a href="http://academicpages.github.io/files/DiarmuidMcDonnell_CurriculumVitae_20180913.pdf">Curriculum Vitae (Updated: 13 September 2018)</a>
