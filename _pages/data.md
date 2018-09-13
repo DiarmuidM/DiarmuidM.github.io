@@ -4,7 +4,7 @@ title: "Data"
 permalink: /data/
 author_profile: true
 redirect_from:
-  - /talks
+  - /talks/
 ---
 
 {% include base_path %}
