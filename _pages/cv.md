@@ -40,8 +40,8 @@ Data
 Service and leadership
 ======
 * Referee
-  * [Nonprofit and Voluntary Sector Quarterly] (http://journals.sagepub.com/home/nvs)
+  * Nonprofit and Voluntary Sector Quarterly
 * Memberhip of professional bodies
-  * [International Society for Third-Sector Research (ISTR)](https://www.istr.org/)
-  * [Voluntary Sector Studies Network (VSSN)] (https://www.vssn.org.uk/)
-  * [Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA)] (https://www.arnova.org/)
+  * International Society for Third-Sector Research (ISTR)
+  * Voluntary Sector Studies Network (VSSN)
+  * Association for Research on Nonprofit Organizations and Voluntary Action (ARNOVA)
