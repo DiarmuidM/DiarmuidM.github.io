@@ -1,0 +1,6 @@
+- Adjust CSS file to reduce font size.
+- Fix display of links in markdown.
+- Better profile picture.
+- Fill out research project sections.
+- Start blog.
+- SEO
